@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\parim\\AndroidStudioProjects\\ThreadingSimple\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\parim\\AndroidStudioProjects\\ThreadingSimple\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,5,3,4",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "57,229,111,167",
+                        "endColumns": "52,51,54,60",
+                        "endOffsets": "105,276,161,223"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,108,160,215",
+                        "endColumns": "52,51,54,60",
+                        "endOffsets": "103,155,210,271"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\parim\\AndroidStudioProjects\\ThreadingAsyncTask\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\parim\\AndroidStudioProjects\\ThreadingAsyncTask\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,5,3,4",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "57,232,114,170",
+                        "endColumns": "55,51,54,60",
+                        "endOffsets": "108,279,164,226"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,111,163,218",
+                        "endColumns": "55,51,54,60",
+                        "endOffsets": "106,158,213,274"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Mon Apr 27 16:03:38 IST 2020
+base.0=C\:\\Users\\parim\\AndroidStudioProjects\\ThreadingHandlerMessages\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
