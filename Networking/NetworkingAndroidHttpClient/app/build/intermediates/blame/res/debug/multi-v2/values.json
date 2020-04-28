@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\parim\\AndroidStudioProjects\\NetworkingAndroidHttpClient\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\parim\\AndroidStudioProjects\\NetworkingAndroidHttpClient\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,1",
+                        "startOffsets": "55,117",
+                        "endColumns": "64,51",
+                        "endOffsets": "115,167"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,120",
+                        "endColumns": "64,54",
+                        "endOffsets": "115,170"
+                    }
+                }
+            ]
+        }
+    ]
+}
