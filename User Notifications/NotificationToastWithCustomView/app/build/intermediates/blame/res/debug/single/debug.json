@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\parim\\AndroidStudioProjects\\NotificationToastWithCustomView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\parim\\AndroidStudioProjects\\NotificationToastWithCustomView\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\parim\\AndroidStudioProjects\\NotificationToastWithCustomView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\parim\\AndroidStudioProjects\\NotificationToastWithCustomView\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\parim\\AndroidStudioProjects\\NotificationToastWithCustomView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\parim\\AndroidStudioProjects\\NotificationToastWithCustomView\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\parim\\AndroidStudioProjects\\NotificationToastWithCustomView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\parim\\AndroidStudioProjects\\NotificationToastWithCustomView\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\parim\\AndroidStudioProjects\\NotificationToastWithCustomView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_fire_eye_alien.png.flat",
+        "source": "C:\\Users\\parim\\AndroidStudioProjects\\NotificationToastWithCustomView\\app\\src\\main\\res\\drawable-nodpi\\fire_eye_alien.png"
+    },
+    {
+        "merged": "C:\\Users\\parim\\AndroidStudioProjects\\NotificationToastWithCustomView\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_toast.xml.flat",
+        "source": "C:\\Users\\parim\\AndroidStudioProjects\\NotificationToastWithCustomView\\app\\src\\main\\res\\layout\\custom_toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\parim\\AndroidStudioProjects\\NotificationToastWithCustomView\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\parim\\AndroidStudioProjects\\NotificationToastWithCustomView\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]

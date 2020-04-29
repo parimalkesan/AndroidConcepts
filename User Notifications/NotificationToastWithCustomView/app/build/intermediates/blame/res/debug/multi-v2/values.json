@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\parim\\AndroidStudioProjects\\NotificationToastWithCustomView\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\parim\\AndroidStudioProjects\\NotificationToastWithCustomView\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,4,6,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "56,125,232,176",
+                        "endColumns": "68,50,56,55",
+                        "endOffsets": "120,171,284,227"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,124,175,232",
+                        "endColumns": "68,50,56,55",
+                        "endOffsets": "119,170,227,283"
+                    }
+                }
+            ]
+        }
+    ]
+}
