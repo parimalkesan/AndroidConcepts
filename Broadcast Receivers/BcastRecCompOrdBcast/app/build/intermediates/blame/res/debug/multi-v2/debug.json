@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\parim\\AndroidStudioProjects\\BcastRecCompOrdBcast\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\parim\\AndroidStudioProjects\\BcastRecCompOrdBcast\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,-1",
+                        "startColumns": "4,-1",
+                        "startOffsets": "55,-1",
+                        "endColumns": "66,-1",
+                        "endOffsets": "117,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,122",
+                        "endColumns": "66,68",
+                        "endOffsets": "117,186"
+                    }
+                }
+            ]
+        }
+    ]
+}
